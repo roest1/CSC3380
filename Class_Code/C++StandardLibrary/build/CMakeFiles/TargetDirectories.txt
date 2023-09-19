@@ -1,0 +1,3 @@
+/Users/rileyoest/VS_Code/3380/Class_Code/C++StandardLibrary/build/CMakeFiles/date_time.dir
+/Users/rileyoest/VS_Code/3380/Class_Code/C++StandardLibrary/build/CMakeFiles/edit_cache.dir
+/Users/rileyoest/VS_Code/3380/Class_Code/C++StandardLibrary/build/CMakeFiles/rebuild_cache.dir
